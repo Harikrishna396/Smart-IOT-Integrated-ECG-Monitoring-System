@@ -1,5 +1,3 @@
-Smart IoT Integrated ECG Monitoring System
-
 The Smart IoT Integrated ECG Monitoring System is an advanced healthcare solution designed to continuously monitor a patient’s heart activity in real time using Internet of Things (IoT) technology. This system captures ECG signals through sensors, processes the data using a microcontroller (such as ESP8266/ESP32), and transmits it to a cloud platform for remote monitoring and analysis.
 
 The project aims to provide an affordable and efficient way to track cardiac health, especially for patients requiring continuous supervision. The collected ECG data can be visualized through a mobile application or web dashboard, enabling doctors and caregivers to monitor heart conditions from anywhere.
